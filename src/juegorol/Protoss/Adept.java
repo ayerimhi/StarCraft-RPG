@@ -1,3 +1,4 @@
+/unidad adepta clase protoss se uso para test de menu y atributos
 package juegorol.Protoss;
 public class Adept extends Protoss 
 {
